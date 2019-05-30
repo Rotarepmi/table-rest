@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.76aae193.chunk.css",
-    "main.js": "/static/js/main.0d57f127.chunk.js",
-    "main.js.map": "/static/js/main.0d57f127.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.4b6ea6ab.chunk.css": "/static/css/2.4b6ea6ab.chunk.css",
-    "static/js/2.9acc3e25.chunk.js": "/static/js/2.9acc3e25.chunk.js",
-    "static/js/2.9acc3e25.chunk.js.map": "/static/js/2.9acc3e25.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.231dd6a9430104757cda31c0bc02e9ef.js": "/precache-manifest.231dd6a9430104757cda31c0bc02e9ef.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.4b6ea6ab.chunk.css.map": "/static/css/2.4b6ea6ab.chunk.css.map",
-    "static/css/main.76aae193.chunk.css.map": "/static/css/main.76aae193.chunk.css.map",
-    "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/all.min.css": "/static/media/fa-solid-900.f14c3b2f.ttf"
+    "main.css": "/table-rest/static/css/main.76aae193.chunk.css",
+    "main.js": "/table-rest/static/js/main.0d57f127.chunk.js",
+    "main.js.map": "/table-rest/static/js/main.0d57f127.chunk.js.map",
+    "runtime~main.js": "/table-rest/static/js/runtime~main.6270c35a.js",
+    "runtime~main.js.map": "/table-rest/static/js/runtime~main.6270c35a.js.map",
+    "static/css/2.b5c47301.chunk.css": "/table-rest/static/css/2.b5c47301.chunk.css",
+    "static/js/2.9acc3e25.chunk.js": "/table-rest/static/js/2.9acc3e25.chunk.js",
+    "static/js/2.9acc3e25.chunk.js.map": "/table-rest/static/js/2.9acc3e25.chunk.js.map",
+    "index.html": "/table-rest/index.html",
+    "precache-manifest.75e7b6971d5799fe2f88d007fc229513.js": "/table-rest/precache-manifest.75e7b6971d5799fe2f88d007fc229513.js",
+    "service-worker.js": "/table-rest/service-worker.js",
+    "static/css/2.b5c47301.chunk.css.map": "/table-rest/static/css/2.b5c47301.chunk.css.map",
+    "static/css/main.76aae193.chunk.css.map": "/table-rest/static/css/main.76aae193.chunk.css.map",
+    "static/media/mdb.css": "/table-rest/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/table-rest/static/media/fa-solid-900.f14c3b2f.ttf"
   }
 }
