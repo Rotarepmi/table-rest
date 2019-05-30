@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,qDACE,YACF","file":"main.76aae193.chunk.css","sourcesContent":[".dataTables_wrapper .table tbody tr td:first-of-type {\n  display: none;\n}"]}
